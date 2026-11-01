@@ -11,10 +11,12 @@ A culturally aligned AI for Nigerians. It answers questions and writes messages,
 
 [Try it live](https://cul-text.vercel.app) · The source code is private for now.
 
-### WetinLast
+### [WetinLast](https://wetinlast.vercel.app)
 An online car parts market that connects mechanics, buyers and car owners. Built for the Cowrywise innovation challenge.
 
-**Built with:** TypeScript · The source code is private.
+**Built with:** TypeScript
+
+[Try it live](https://wetinlast.vercel.app) · The source code is private.
 
 ### RRC EDI Generator
 A tool to help oil and gas companies in Texas generate EDI files for G-10 and W-10 forms.
