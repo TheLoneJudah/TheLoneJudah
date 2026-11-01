@@ -18,6 +18,13 @@ An online car parts market that connects mechanics, buyers and car owners. Built
 
 [Try it live](https://wetinlast.vercel.app) · The source code is private.
 
+### [Location Searcher](https://thelonejudah.github.io/location-searcher/)
+A map app that finds any place, its closest major road and turn-by-turn directions that name real roads. It also takes Google Earth KML or KMZ files and CSVs, runs batch directions for up to 500 locations, and shows which locations fall within a set distance.
+
+**Built with:** JavaScript, Leaflet, OpenStreetMap, Nominatim, Overpass and OSRM
+
+[Try it live](https://thelonejudah.github.io/location-searcher/) · [Source code](https://github.com/TheLoneJudah/location-searcher)
+
 ### RRC EDI Generator
 A tool to help oil and gas companies in Texas generate EDI files for G-10 and W-10 forms.
 
